@@ -12,6 +12,6 @@
 
     Average Case: Dizi tamamlandıktan sonra ortanca değer 18 ortadadır.
 
-# [7,3,5,8,2,9,4,15,6] 
+# [7,3,5,8,2,9,4,15,6] -> Insertion Sort
 
     [7,3,5,8,2,9,4,15,6] > [2,3,5,8,7,9,4,15,6] > [2,3,4,8,7,9,5,15,6] > [2,3,4,5,7,9,8,15,6] 
